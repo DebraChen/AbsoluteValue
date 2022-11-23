@@ -1,4 +1,5 @@
-# |-X| (AbsoluteValue)  
+#   |-X|
+## (AbsoluteValue)  
 Yuwei Chen  
   
 Swift | DiscoDifussion | StyleGan2 | AI Test Generators  
@@ -13,7 +14,10 @@ x x x x |-x|x
 |x -x -x -x x|. 
   
   
-### Links
+    
+     
+      
+## Links
 
 #### Video Link(Youtube):
 
@@ -120,37 +124,21 @@ For UX, UI, Controller version1 to 3
 
 We use four layers of landscape
 
-![](image/image_PerYijRAqV.png)
-
-![](image/image_YvHpSYknox.png)
-
-![](image/image_RjjeC1TkLi.png)
-
-![](image/image_wrLXL1FZ7h.png)
 
 #### (2)Materials
 
 First are the 3 Landscape materials:
 
-![](image/image_0iV_eLLR8-.png)
 
-![](image/image_HfFp5rJ1Hk.png)
-
-![](image/image_7WsVbPUTLx.png)
 
 Flashing Ball:
 
-![](image/image_TGomTJKVj8.png)
 
-![](image/image_UU9AMmqtD3.png)
 
 #### (3)Niagara System (Effects）
 
 All the effects in our game are fitted with Audios, by using Audio Spectrum and fed it with the particles' Normalized age, which is from 0-1, and put in spectrum then the particle can get some delta value.
 
-![](image/image_CdRKVj_rds.png)
-
-![](image/image_NJOO_u9Y6D.png)
 
 #### (4)Shading(Rendering Pipeline)
 
@@ -158,64 +146,3 @@ We use the PostProcess Volume way to adjust the style of our game, and the pipel
 
 Overall:
 
-![](image/image_wD3gRPPwVX.png)
-
-![](image/image_39WOflWCNP.png)
-
-2\*2 convolution kernel for edge detection:
-
-![](image/image_drI0Tb_I0F.png)
-
-![](image/image_tmfUd_aMZI.png)
-
-Blend the four parts and ge rid of the Sky(Without this the sky blacklines will turn up):
-
-![](image/image_M1czRe6evO.png)
-
-#### (5)Kinect(OpenResource Plug-in "AzureKinectUnreal")
-
-\*\*Plug-in link: \*\*
-
-[secretlocation/azure-kinect-unreal: Azure Kinect Body Tracking plugin for Unreal (github.com)](https://github.com/secretlocation/azure-kinect-unreal "secretlocation/azure-kinect-unreal: Azure Kinect Body Tracking plugin for Unreal (github.com)")
-
-**!!!Actually, it is no way to use it if directly put in the UE5, but I indeed add a lot of SDK(Azure Kinect Body Tracking SDK 1.1.2) files in my windows environment so that it can work well**.
-
-I use 3 points' positions of the right hand(and get their average value), then transfer them into the Interactive blue ball's **velocity**.
-
-Kinect BluePrints are here:
-
-![](image/image_7EXWQ4H5bM.png)
-
-![](image/image_LnM8-UKqPy.png)
-
-In Interaction Point BP:
-
-![](image/image_myiF-x3q_c.png)
-
-#### (6)Arduino(OpenResource Plug-in "SERIALCOM")
-
-\*\*Plug-in link: \*\*
-
-[videofeedback/Unreal\_Engine\_SerialCOM\_Plugin: Serial Com Port Library for Unreal Engine 4 and Unreal Engine 5 (github.com)](https://github.com/videofeedback/Unreal_Engine_SerialCOM_Plugin "videofeedback/Unreal_Engine_SerialCOM_Plugin: Serial Com Port Library for Unreal Engine 4 and Unreal Engine 5 (github.com)")
-
-The Arduino in our Program is used to receive our 3d printed controller's data(x and y), as the plug-in "SERIALCOM" in UE5 could not receive multi-value, I made them as a line-string, after mapping from 0-700  to 100-200 (e.g. one string would be "146146")
-
-![](image/image_E2JHAOwACO.png)
-
-Here is the BluePrint connect the arduino
-
-![](image/image_ojHH2Q3sOF.png)
-
-Then make the data control the player's eyesight and movement control
-
-![](image/image_ZCL4hZitL9.png)
-
-![](image/image_M6O-_kIbI0.png)
-
-### Other miscellaneous(Usage INFOs)
-
-#### Our Labor Division:
-
-Wu: Technical(UE5 for Game Play Edit, Kinect for motion capture, Arduino Code and Blender for JoyHandle), Contribution = 50%
-
-Chen: Artist(Substance-Painter for texture painting, UE5 Parameter Adjustment for more beautiful and Blender for Towers in-game), Contribution = 50%
