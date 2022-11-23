@@ -53,10 +53,21 @@ Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process
 ### Background and Stories
 
 
-This app is a window for people from parallel worlds to tell you their stories about an experimental subject whose self-awareness is awakened to the point of being lost under the escalating mind control of the powerful. Each world has its own lock, and the right answer is the only way to peek into the story. The interactive mode invites the audience to participate in the progression of the story, through repeated "404" error pages and complex exit screens that wear down the user's patience and force him to leave, or to accept the rules of another world and choose the "possible correct answer". The user testing process observes the user's reaction to the different options selected, interviews about how it feels to use and read, and observes whether the app conveys the emotional feelings expected by the user, thus serving as a window into what people in the other world are saying and telling. The aim is to spread fear and discuss how negative people can stay awake in an absolute value factory.     
+The app is a window for people from parallel worlds to tell you their stories about an experimental subject whose self-awareness is awakened to the point of being lost under the escalating mind control of the powerful. Each world has its own lock, and the right answer is the only way to peek into the story. The interactive mode invites the audience to participate in the progression of the story, through repeated "404" error pages and complex exit screens that wear down the user's patience and force him to leave, or to accept the rules of another world and choose the "possible correct answer". The user testing process observes the user's reaction to the different options selected, interviews about how it feels to use and read, and observes whether the app conveys the emotional feelings expected by the user, thus serving as a window into what people in the other world are saying and telling. The aim is to spread fear and discuss how negative people can stay awake in an absolute value factory.     
 Or, ignorance is bless.   
    
-这个app是平行世界的人向你讲述他们故事的窗口，讲述了在强权逐步升级的思想控制下，一位试验品从自我意识觉醒到逐渐失去自我的故事. 每个世界都有他自己的锁，答对了密码才能窥探其中的故事。作品采用互动模式邀请观众参与故事的推进，通过一次次选择不同按钮后进入”404“错误页面或继续故事。按下“错误的选择”后，复杂的退出，重新输入密码界面或消磨使用者的耐心，迫使其离去；或是接受另一世界的规则，选择“有可能的正确答案”。在用户测试流程中观察使用者选到不同选项的反应，采访其关于使用感受和阅读感受，观测app是否传达给用户所预期的情绪感受，从而达到另一世界人们表达和讲述的窗口的目的。目的是传播恐惧，提出疑问，在绝对值工厂里，负数们该如何保持清醒？或者说，无知是福吗？    
+程序是平行世界的人向观众讲述故事的窗口，讲述了在控制逐步升级的情况下，主人公在一次次事件中从自我意识觉醒到失去自我的故事. 每个世界都有自己的密码，密码验证正确后，观者才能窥探其中的故事，作品通过互动模式邀请观众参与故事的推进。 
+
+观者选择不同按钮后，会进入“404”错误页面或继续故事。按下“错误的选择”后，复杂的退出、重新输入密码界面或
+
+错误选择会导向404，消磨使用者的耐心，；或是重新进入故事后，在再次选择时接受另一世界的规则，选择“有可能的正确答案”。  
+  
+艺术家在用户测试流程中观察用户选到不同选项的反应，在用户结束体验后对其进行使用感受采访，观察app是否传达给用户我所预期的情绪感受，从而达到另一世界人们进行表达和讲述的目的。  
+这是篇叙述醒的作品实验，通过用户体验进行迭代，进行可持续的设计。
+程序试图在观者的体验中传播恐惧并提出疑问————在绝对值工厂里，负数们该如何保持清醒？或者说，无知是福吗？ 
+
+  
+
    
   
 
