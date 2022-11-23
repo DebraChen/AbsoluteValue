@@ -56,7 +56,7 @@ Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process
 This app is a window for people from parallel worlds to tell you their stories about an experimental subject whose self-awareness is awakened to the point of being lost under the escalating mind control of the powerful. Each world has its own lock, and the right answer is the only way to peek into the story. The interactive mode invites the audience to participate in the progression of the story, through repeated "404" error pages and complex exit screens that wear down the user's patience and force him to leave, or to accept the rules of another world and choose the "possible correct answer". The user testing process observes the user's reaction to the different options selected, interviews about how it feels to use and read, and observes whether the app conveys the emotional feelings expected by the user, thus serving as a window into what people in the other world are saying and telling. The aim is to spread fear and discuss how negative people can stay awake in an absolute value factory.     
 Or, ignorance is bless.   
    
-这个app是平行世界的人向你讲述他们故事的窗口，讲述了在强权逐步升级的思想控制下，一位试验品自我意识觉醒到丢失的故事. 每个世界都有他自己的锁，答对了才能窥探其中的故事。采用互动模式邀请观众参与故事的推进，通过一次次”404“错误页面，复杂的退出界面消磨使用者的耐心，迫使其离去，或是接受另一世界的规则，选择“有可能的正确答案”。通过用户测试流程观察使用者选到不同选项的反应，采访关于使用感受和阅读感受，观测app是否传达给用户所预期的情绪感受，从而作为另一世界人们表达和讲述的窗口。目的是传播恐惧，讨论在绝对值工厂里，负数们该如何保持清醒。或者说，无知是福。    
+这个app是平行世界的人向你讲述他们故事的窗口，讲述了在强权逐步升级的思想控制下，一位试验品从自我意识觉醒到逐渐失去自我的故事. 每个世界都有他自己的锁，答对了密码才能窥探其中的故事。作品采用互动模式邀请观众参与故事的推进，通过一次次选择不同按钮后进入”404“错误页面或继续故事。按下“错误的选择”后，复杂的退出，重新输入密码界面或消磨使用者的耐心，迫使其离去；或是接受另一世界的规则，选择“有可能的正确答案”。在用户测试流程中观察使用者选到不同选项的反应，采访其关于使用感受和阅读感受，观测app是否传达给用户所预期的情绪感受，从而达到另一世界人们表达和讲述的窗口的目的。目的是传播恐惧，提出疑问，在绝对值工厂里，负数们该如何保持清醒？或者说，无知是福吗？    
    
   
 
