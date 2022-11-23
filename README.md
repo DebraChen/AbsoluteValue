@@ -52,19 +52,19 @@ Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process
 
 ### Background and Stories
 
-这个app是平行世界的人向你讲述他们故事的窗口，讲述了在强权逐步升级的思想控制下，一位试验品自我意识觉醒到丢失的故事
 
-This project, simulating the research team in 2122, looked back on the virtual world revolution about 50 years ago, and made a rehabilitation design for the degeneration of human limbs after that, to arouse people's awareness of the current, real world.
-
-In contrast, the design team tries to provoke people's reflection about how the virtual world limits real-world activity by limiting the range of activities of the experiencer, and by attracting the player's attention while ignoring parts of the real-world experience. The game limits the physical user experience to 1 square meter space. The Kinect and thumb manipulators allow participants to control the game only through upper body activities and explore in the open virtual world.
-
-The project ‘Of No Bound’ aims to express that there are many endless things, but the present moment is precious. In the era of excess information, 'Tittytainment' has occupied too much attention from people. On the way to pursuing a bigger goal, people also need to stop occasionally, pay attention to the second to experience the now, and also pay attention to the connection between the individual and the world. In the wave of fake news & propaganda, find the reef of independent thinking. ‘The grass is always greener on the other side, every moment that we are aware and experience makes us who we are.
+This app is a window for people from parallel worlds to tell you their stories about an experimental subject whose self-awareness is awakened to the point of being lost under the escalating mind control of the powerful. Each world has its own lock, and the right answer is the only way to peek into the story. The interactive mode invites the audience to participate in the progression of the story, through repeated "404" error pages and complex exit screens that wear down the user's patience and force him to leave, or to accept the rules of another world and choose the "possible correct answer". The user testing process observes the user's reaction to the different options selected, interviews about how it feels to use and read, and observes whether the app conveys the emotional feelings expected by the user, thus serving as a window into what people in the other world are saying and telling. The aim is to spread fear and discuss how negative people can stay awake in an absolute value factory.     
+Or, ignorance is bless.   
+   
+这个app是平行世界的人向你讲述他们故事的窗口，讲述了在强权逐步升级的思想控制下，一位试验品自我意识觉醒到丢失的故事. 每个世界都有他自己的锁，答对了才能窥探其中的故事。采用互动模式邀请观众参与故事的推进，通过一次次”404“错误页面，复杂的退出界面消磨使用者的耐心，迫使其离去，或是接受另一世界的规则，选择“有可能的正确答案”。通过用户测试流程观察使用者选到不同选项的反应，采访关于使用感受和阅读感受，观测app是否传达给用户所预期的情绪感受，从而作为另一世界人们表达和讲述的窗口。目的是传播恐惧，讨论在绝对值工厂里，负数们该如何保持清醒。或者说，无知是福。    
+   
+  
 
 ### Devices And Applications
 
-Hardware： Laptop, Azure Kinect, 3D printed controller(designed by ourselves) connected by Arduino
+Hardware： Laptop, iphone  
 
-Software:     Unreal Engine 5, Kinect, Arduino, Blender, Substance Painter, Logic
+Software:  Xcode, colab  
 
 ### Production process
 
