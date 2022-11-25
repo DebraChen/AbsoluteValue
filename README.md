@@ -69,14 +69,12 @@ https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Define
 https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary   
   (1) Current Version
       https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/App%20currentVersion/Version03.zip  
-        
   (2) Hands on practices   
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20page%20jump  
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20choice2%20navigationController  
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20choice3%20NoCodeStoryboard  
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step02%20Add%20swipe%20gesture%20for%20the%20story  
-   
-  (3) Earlier Versions and iterative design  
+   (3) Earlier Versions and iterative design  
       Version 01:   
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/Version01  
       iterative 01 after user test:  
