@@ -92,12 +92,12 @@ https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary
       iterative 02 after user test:   
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/Version2.0%20iteration  
       
-5. Challenges  
-    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Challenges.md  
+5. Swift Learning Process  
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/SWIFTlearningprocess.md  
    
 6. Resources summary   
-    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Resources.md   
-  
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Resources.md  
+    
 7. Stories in the project that inspirited by interview and research (with critical thinking)  
 https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/TheStories%2C%20interviews%20and%20news  
   
@@ -109,5 +109,8 @@ https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/TheStories%2C%20
 9. Test video(Newest version)  
   https://youtu.be/SaLwIrKgMDQ
   
-10. Research summary and interview review are included in the Essay, will not be upload online considering caring and privacy
+10. Challenges  
+  
+11. Research summary and interview review are included in the Essay, will not be upload online considering caring and privacy
+  
 
