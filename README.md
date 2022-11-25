@@ -18,7 +18,7 @@ x x x x |-x|x
   
   
  
-### Background and Stories
+## Background and Stories
 
 The program is a window through which people from parallel worlds transmit information to the viewer. Each window has its own password, which is verified correctly before the viewer can peek into the story within. The work invites the viewer to participate in the advancement of the story through an interactive mode. The story follows the protagonist as events escalate, from the awakening of self-consciousness, to the multiple choices he makes, and finally... 
 
@@ -49,9 +49,15 @@ https://youtu.be/BWd4NCB3Bcs
   
   
 #### GitHub Link:
-  
 Project Summary Git (Current Page): https://github.com/DebraChen/AbsoluteValue  
 Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process  
+  
+   
+#### Xcode swift development file  
+Zip:  
+https://github.com/DebraChen/AbsoluteValue/tree/main/zip   
+Uncompressed:  
+https://github.com/DebraChen/AbsoluteValue/tree/main/ProjectXcodeFile
   
   
 #### INFO:
