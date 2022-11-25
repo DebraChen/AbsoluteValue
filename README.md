@@ -1,6 +1,6 @@
-   
-  
-  
+####    
+####   
+####   
 #   |-X|   (AbsoluteValue)  
   
 Swift | DiscoDifussion | StyleGan2 | AI Test Generators  
@@ -28,6 +28,9 @@ The artist observes the user's reactions to the different options selected durin
 
 The program attempts to spread fear and raise questions in the viewer's experience ---- How do negatives stay awake in an absolute value factory? Or, ignorance is bless.
    
+   
+   
+   
 程序是平行世界的人们向观众传递信息的窗口。每个窗口都有自己的密码，密码验证正确后，观者才能窥探其中的故事，作品通过互动模式邀请观众参与故事的推进。故事讲述了在事件逐步升级的情况下，主人公从自我意识觉醒，做出多次选择，最后... 
 
 观者在阅读故事时会碰见不同的选项，选择不同按钮后，会进入“404”错误页面，或继续故事。按下“错误的按钮”后，被迫退出进行中的页面、跳回到重新输入密码界面或另使用者烦躁，或消磨使用者的耐心使其选择跳过故事或选择离去；或是重新进入故事后，在再次选择时接受另一世界的规则，选择“有可能的正确答案”。 在按钮被按下前谁也不知道会是什么结果。 
@@ -43,14 +46,14 @@ The program attempts to spread fear and raise questions in the viewer's experien
 
 #### Video Link(Youtube):
 https://youtu.be/BWd4NCB3Bcs  
-
   
-
+  
 #### GitHub Link:
   
 Project Summary Git (Current Page): https://github.com/DebraChen/AbsoluteValue  
 Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process  
-
+  
+  
 #### INFO:
 
 1. discover process  
