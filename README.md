@@ -54,6 +54,8 @@ Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process
   
    
 #### Xcode swift development file  
+Swift code is the coding language that I just learned, very useful and convenient for building apps for ios system.  
+And it will be my main coding area 
 Zip:  
 https://github.com/DebraChen/AbsoluteValue/tree/main/zip   
 Uncompressed:  
