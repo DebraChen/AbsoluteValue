@@ -67,7 +67,7 @@ https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Define
   
 4. App develop diary file (have detailed process describtion in readme files)   
 https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary   
-  (1) Current Version
+  (1) Current Version  
       https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/App%20currentVersion/Version03.zip  
   (2) Hands on practices   
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20page%20jump  
