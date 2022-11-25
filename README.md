@@ -1,5 +1,4 @@
-#   |-X|
-### (AbsoluteValue)  
+#   |-X|   (AbsoluteValue)  
   
 Swift | DiscoDifussion | StyleGan2 | AI Test Generators  
 Xcode | Colab  
@@ -30,8 +29,44 @@ Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process
 
 #### INFO:
 
-(1)discover process
-(2)iterative design
+(1)discover process  
+https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Discover   
+  
+(2)Define the project  
+https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Define   
+   
+(3)Timeline  
+<img width="500" alt="Screenshot 2022-11-25 at 10 03 36" src="https://user-images.githubusercontent.com/91618091/203957585-d9bc1179-a4ab-4a2b-acc7-f257054d9c55.png">  
+  
+(4)App develop diary file (have detailed process describtion in readme files)   
+https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary   
+  1. Current Version
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/App%20currentVersion/Version03.zip  
+        
+  2. Hands on practices   
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20page%20jump  
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20choice2%20navigationController  
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20choice3%20NoCodeStoryboard  
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step02%20Add%20swipe%20gesture%20for%20the%20story  
+   
+  3. Earlier Versions and iterative design  
+      Version 01:   
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/Version01  
+      iterative 01 after user test:  
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/Version1.0%20iteration  
+      Version 02:  
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/Version2.0  
+      iterative 02 after user test:   
+      https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/Version2.0%20iteration  
+      
+4. Challenges  
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Challenges.md  
+   
+5. Resources   
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Resources.md   
+  
+6. Stories that inspirited from interview and research  
+
 
 #### Google Drive Link:
 
