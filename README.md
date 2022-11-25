@@ -1,6 +1,5 @@
 #   |-X|
 ## (AbsoluteValue)  
-Yuwei Chen  
   
 Swift | DiscoDifussion | StyleGan2 | AI Test Generators  
 Xcode | Colab  
