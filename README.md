@@ -62,7 +62,7 @@ https://github.com/DebraChen/AbsoluteValue/tree/main/ProjectXcodeFile
   
 #### INFO:
 
-1. discover process  
+1. Discover and Enquiry  
 https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Discover   
   
 2. Define the project  
@@ -96,15 +96,16 @@ https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary
 6. Resources   
     https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Resources.md   
   
-7. Stories in the project that inspirited by interview and research   
+7. Stories in the project that inspirited by interview and research (with critical thinking)  
 https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/TheStories%2C%20interviews%20and%20news  
   
-8. AI generating Illustrations process and file. 
+8. AI generating Illustrations critical analysis . 
 https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Visual/Delle2%20Illustrations   
   Google Drive Link:
   https://drive.google.com/drive/folders/1EGMeTzJOOqTuscljWA5Sa6B9i8bzeY4N?usp=share_link
   
-
-
-
+9. Test video(Newest version)
+https://youtu.be/SaLwIrKgMDQ
+  
+10. Research summary and interview review are included in the Essay, will not be upload online
 
