@@ -93,19 +93,19 @@ https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary
 5. Challenges  
     https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Challenges.md  
    
-6. Resources   
+6. Resources summary   
     https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Resources.md   
   
 7. Stories in the project that inspirited by interview and research (with critical thinking)  
 https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/TheStories%2C%20interviews%20and%20news  
   
-8. AI generating Illustrations critical analysis . 
-https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Visual/Delle2%20Illustrations   
+8. AI generating Illustrations critical analysis    
+  https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Visual/Delle2%20Illustrations   
   Google Drive Link:
   https://drive.google.com/drive/folders/1EGMeTzJOOqTuscljWA5Sa6B9i8bzeY4N?usp=share_link
   
-9. Test video(Newest version)
-https://youtu.be/SaLwIrKgMDQ
+9. Test video(Newest version)  
+  https://youtu.be/SaLwIrKgMDQ
   
-10. Research summary and interview review are included in the Essay, will not be upload online
+10. Research summary and interview review are included in the Essay, will not be upload online considering caring and privacy
 
