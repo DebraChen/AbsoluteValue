@@ -25,7 +25,7 @@ https://youtu.be/BWd4NCB3Bcs
 
 #### GitHub Link:
   
-Project Summary Git: https://github.com/DebraChen/AbsoluteValue  
+Project Summary Git (Current Page): https://github.com/DebraChen/AbsoluteValue  
 Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process  
 
 #### INFO:
