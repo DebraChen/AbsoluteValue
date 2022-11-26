@@ -24,7 +24,7 @@ The program is a window through which people from parallel worlds transmit infor
 
 As the viewer reads the story they are presented with different options, selecting different buttons that will take them to a '404' error page or to continue the story. Pressing the 'wrong button' forces the viewer to exit the page in progress, jump back to the password re-entry screen or annoy the user, or wear down the user's patience so that they choose to skip the story or leave; or re-enter the story and accept the rules of the other world when choosing again, choosing 'yes possible correct answer". No one knows what the outcome will be until the button is pressed. 
   
-The artist observes the user's reactions to the different options selected during the user testing process and interviews the user after the experience to see if the app conveys the emotional feelings I expected, with the aim of other-worldly expression and narration.  This is an experiment in narrative work, iterating through the user experience for sustainable design.
+The artist observes the user's reactions to the different options selected during the user testing process and interviews the user after the experience to see if the app conveys the emotional that feelings I expected or not expected, with the aim of other-worldly expression and narration.  This is an experiment in narrative work, iterating through the user experience for sustainable design.
 
 The program attempts to spread fear and raise questions in the viewer's experience ---- How do negatives stay awake in an absolute value factory? Or, ignorance is bless.
    
@@ -65,16 +65,16 @@ https://github.com/DebraChen/AbsoluteValue/tree/main/ProjectXcodeFile
 #### INFO:
 
 1. Discover and Enquiry  
-https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Discover   
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Discover   
   
 2. Define the project  
-https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Define   
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Define   
    
 3. Timeline  
 <img width="500" alt="Screenshot 2022-11-25 at 10 03 36" src="https://user-images.githubusercontent.com/91618091/203957585-d9bc1179-a4ab-4a2b-acc7-f257054d9c55.png">  
   
 4. App develop diary file (have detailed process describtion in readme files)   
-https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary   
+  https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary   
   (1) Current Version  
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/App%20currentVersion   
   (2) Hands on practices   
@@ -92,25 +92,22 @@ https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary
       iterative 02 after user test:   
       https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/Version2.0%20iteration  
       
-5. Swift Learning Process  
-    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/SWIFTlearningprocess.md  
+5. Challenges  
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Challenges.md    
    
 6. Resources summary   
-    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Resources.md  
-    
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/devDiary/Resources.md   
+  
 7. Stories in the project that inspirited by interview and research (with critical thinking)  
-https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/TheStories%2C%20interviews%20and%20news  
+    https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/TheStories%2C%20interviews%20and%20news  
   
 8. AI generating Illustrations critical analysis    
-  https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Visual/Delle2%20Illustrations   
-  Google Drive Link:
-  https://drive.google.com/drive/folders/1EGMeTzJOOqTuscljWA5Sa6B9i8bzeY4N?usp=share_link
-  
+   https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/Visual/Delle2%20Illustrations   
+   Google Drive Link:
+   https://drive.google.com/drive/folders/1EGMeTzJOOqTuscljWA5Sa6B9i8bzeY4N?usp=share_link
+   
 9. Test video(Newest version)  
-  https://youtu.be/SaLwIrKgMDQ
+   https://youtu.be/SaLwIrKgMDQ
   
-10. Challenges  
-  
-11. Research summary and interview review are included in the Essay, will not be upload online considering caring and privacy
-  
+10. Research summary and interview review are included in the Essay, will not be upload online considering caring and privacy
 
