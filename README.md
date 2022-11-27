@@ -50,7 +50,7 @@ https://youtu.be/BWd4NCB3Bcs
   
 #### GitHub Link:
 Project Summary Git (Current Page): https://github.com/DebraChen/AbsoluteValue  
-Dev Diary: https://github.com/DebraChen/SNOW-APP-Develop-Process  
+Weblog: https://github.com/DebraChen/SNOW-APP-Develop-Process  
   
    
 #### Xcode swift development file  
