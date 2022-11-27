@@ -3,7 +3,7 @@
 ####   
 #   |-X|   (AbsoluteValue)  
   
-Swift | DiscoDifussion | StyleGan2 | AI Test Generators  
+Swift | DiscoDiffussion | StyleGan2 | AI Test Generators  
 Xcode | Colab  
   
 #### 
